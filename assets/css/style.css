@@ -1,0 +1,50 @@
+body {
+  background-image: url("assets/images/space-background.png");
+}
+
+p {
+  color: #ffffff;
+  padding: 2px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.main-header{
+  background-image: url("assets/images/nebula.jpg");
+  margin-top: -20px;
+  padding-top: 30px;
+  border-bottom: 2px solid #ffffff;
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  color: #ffffff;
+  line-height: 150px;
+}
+
+.win-loss{
+  background-color: #a1a6aa;
+  color: #ffffff;
+}
+
+.jupiter {
+  height: auto;
+  width: 100%;
+}
+
+.earth {
+  height: auto;
+  width: 100%;
+}
+
+.saturn {
+  height: auto;
+  width: 100%;
+}
+
+.pluto {
+  height: auto;
+  width: 100%;
+}
